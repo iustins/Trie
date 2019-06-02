@@ -1,4 +1,3 @@
-//Sima Iustin,325 CB
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
